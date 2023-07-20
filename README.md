@@ -6,7 +6,8 @@
   - [1.1 Preprocess](#11-preprocess)
   - [1.2 Local Setup](#12-local-setup)
   - [1.3 Classes and Modules](#13-classes-and-modules)
-- [2. Todos](#2-todos)
+- [2. CNN News Dataset(WIP)](#2-cnn-news-datasetwip)
+- [3. Todos](#3-todos)
 
 ## 1. Text Similarity for MS-MARCO Dataset
 
@@ -35,7 +36,13 @@
 - `class<Index>`: Abstraction over ES Index. Include batteries for full text and KNN search.
 - [pensieve.py](./similarity_search/pensieve.py): Code for streamlit app.
 
-## 2. Todos
+## 2. CNN News Dataset(WIP)
+
+- A notebook demonstrating e2e process for calculating embeddings on CNN dataset.
+- Need improvements like trying another foundation mode, changing chunks size
+- Better document expansion
+
+## 3. Todos
 
 1. Try other dataset.
 2. Used Document expansion and DPR techniques
