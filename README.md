@@ -1,5 +1,7 @@
 # ES as VectorDB    <!-- omit in toc -->
 
+![Streamlit app](./assets/streamlit.gif)
+
 ## Table of Contents<!-- omit in toc -->
 
 - [1. Text Similarity for MS-MARCO Dataset](#1-text-similarity-for-ms-marco-dataset)
